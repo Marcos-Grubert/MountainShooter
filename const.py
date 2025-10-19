@@ -1,0 +1,14 @@
+#C
+COLOR_ORANGE = (255, 128, 0)
+COLOR_WHITE = (255, 255, 255)
+
+#M
+MENU_OPTION = ('NOVO JOGO',
+               'NOVO JOGO 2 JOGADORES - COOPERATIVO',
+               'NOVO JOGO 2 JOGADORES - COMPETITIVO',
+               'PONTUAÇÃO',
+               'SAIR')
+
+#W
+WINDOW_WIDTH = 576
+WINDOW_HEIGHT = 324
